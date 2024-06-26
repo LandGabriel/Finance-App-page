@@ -1033,7 +1033,7 @@ nav > ul > li a:hover {
   font-size: 2rem;
 }
 
-.s-download-app .container .app-teslabank #canvas-basic {
+.s-download-app .container  #canvas-basic {
   width: 380px;
   height: 380px;
   border-radius: 56px;
@@ -1043,7 +1043,7 @@ nav > ul > li a:hover {
   justify-content: center;
 }
 
-.s-download-app .container .app-teslabank #canvas-basic img {
+.s-download-app .container #canvas-basic img {
   animation: imgHeart 2s ease infinite;
   width: 180px;
 }
@@ -1077,7 +1077,7 @@ nav > ul > li a:hover {
 }
 
 @media screen and (max-width: 1216px) {
-  .s-download-app .container .app-teslabank {
+  .s-download-app .container  {
     display: none;
   }
 }
